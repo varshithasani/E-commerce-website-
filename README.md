@@ -1,3 +1,4 @@
+E-COMMERCE WEBSITE
 This project is a registration form designed as part of an E-commerce Web Application named "Smile Shop E-commerce Web Application". It was built using HTML, CSS, and JavaScript to provide a user-friendly and interactive form for new users to register on the platform.
 The objective of this task was to:
 
